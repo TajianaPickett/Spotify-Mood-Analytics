@@ -30,7 +30,7 @@ This project combines data analysis and visual storytelling to understand how di
 ## Tools Used
 - **Tableau** — interactive data visualization  
 - **Python** — preprocessing, clustering, and feature calculations    
-- **GitHub** — project versioning and documentation  
+
 
 ---
 
